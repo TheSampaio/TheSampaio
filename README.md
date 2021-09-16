@@ -9,8 +9,8 @@
     <h1>Hi There, I'm Kellvyn Sampaio! 😄</h1>
     <div style="display: inline_block">
         <a href="https://github.com/TheSampaio">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TheSampaio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/>
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=TheSampaio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/><br>
+        <img height="234em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/>
     </div style="display: inline_block">
         <img align="center" alt="Kellvyn-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="Kellvyn-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
