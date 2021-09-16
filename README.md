@@ -4,136 +4,28 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-        html, body, h1
-        {
-            margin-left: 0%;
-            margin-right: 0%;
-            margin-top: 0%;
-            margin-bottom: 0%;
-        }
-
-        h1
-        {
-            font-size: 160%;
-            font-family: 'Bitstream Vera Sans', Verdana, Tahoma, 'Sans serif';
-            text-align: center;
-            background-color: #00589A;
-            background-size: 100%;
-            color: white;
-            padding: 1%;
-            margin-bottom: 0%;
-        }
-
-        h2
-        {
-            font-size: 80%;
-            text-align: center;
-            background-color: #005cc5;
-            color: #005cc5;
-            padding: 0.2%;
-            margin-top: 0%;
-            margin-bottom: 2.8%;
-        }
-
-        img
-        {
-            width: 95%;
-            height: 78%;
-            border-radius: 10%;
-            padding: 2.4%;
-        }
-
-        p
-        {
-            color: #00589A;
-            font-size: 84%;
-            font-weight: bold;
-            text-align: right;
-            padding: 1.2%;
-            margin-top: 1.5%;
-            margin-bottom: 0%;
-            background-color: #E2E1DE;
-        }
-
-        a 
-        {
-            color: #00589A;
-        }
-
-        a:hover
-        {
-            color: #0065d8;
-        }
-
-        .title
-        {
-            text-align: center;
-            font-size: medium;
-            font-family: 'Bitstream Vera Sans', Verdana, Tahoma, 'Sans serif';
-            font-size: 85%;
-            font-weight: bold;
-            border-radius: 48%;
-            padding-top: 0%;
-            padding-bottom: 3%;
-        }
-
-        .container
-        {
-            width: 22%;
-            height: 24%;
-            border: 1px solid #ccc;
-            border-radius: 10%;
-            margin-left: 1.1%;
-            margin-right: 1%;
-            margin-bottom: 1.5%;
-            display: inline-block;
-            padding: 0.2%;
-            color: white;
-            background-color: #00589A;
-        }
-
-        .container:hover
-        {
-            box-shadow: 0 0 10px 0 rgb(80, 80, 80);
-            background-color: #005cc5;
-            border: 1px solid rgb(120, 120, 120);
-        }
-
-    </style>
 </head>
 <body>
-    <h1>Hi There, I'm Kellvyn Sampaio!</h1>
-    <a href="">
-        <div class="container">
-            <img src="images/image01.png">
-            <div class="title">Work In Progress</div>
-        </div>
-    </a>
-    <a href="">
-        <div class="container">
-            <img src="images/image02.png">
-            <div class="title">Work In Progress</div>
-        </div>
-    </a>
-    <a href="">
-        <div class="container">
-            <img src="images/image03.png">
-            <div class="title">Work In Progress</div>
-        </div>
-    </a>
-    <a href="">
-        <div class="container">
-            <img src="images/image04.png">
-            <div class="title">Work In Progress</div>
-        </div>
-    </a>
+    <h1>Hi There, I'm Kellvyn Sampaio! 😄</h1>
+    <div>
+        <a href="https://github.com/TheSampaio">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=TheSampaio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/>
+    </div>
+        <img align="center" alt="Kellvyn-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="center" alt="Kellvyn-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+        <img align="center" alt="Kellvyn-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+        <img align="center" alt="Kellvyn-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+        <img align="center" alt="Kellvyn-Cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+        <img align="center" alt="Kellvyn-Python" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    </div>
+    <hr>
+    <div>
+        <a href="https://www.youtube.com/channel/UCrdahfyW1Ufmq_o8IVkbT9A" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+        <a href="https://www.facebook.com/sampaiogamesstudio" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+        <a href="https://www.instagram.com/thesampaiobr" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+        <a href="https://www.linkedin.com/in/kellvyn-sampaio-a394471a7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+        <a href="https://sampaiogamesstudio.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
+    </div>
 </body>
-<footer>
-    <p>
-        Follow Me Here<br>
-        <a href="https://www.instagram.com/thesampaiobr">Instagram</a> | 
-        <a href="https://www.linkedin.com/in/kellvyn-sampaio-a394471a7/">Linkedin</a>
-    </p>
-</footer>
 </html>
