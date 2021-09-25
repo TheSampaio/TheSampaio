@@ -11,7 +11,6 @@
         <a href="https://github.com/TheSampaio">
         <img height="172em" src="https://github-readme-stats.vercel.app/api?username=TheSampaio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/><br>
         <img height="269em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/><br>
-        <img height="173em" src="https://github-readme-stats.vercel.app/api/wakatime/?username=TheSampaio&layout=default&theme=algolia"/>
     </div style="display: inline_block"><br>
         <img align="center" alt="Kellvyn-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="Kellvyn-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
