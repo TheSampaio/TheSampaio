@@ -9,14 +9,15 @@
     <h1>Hi There, I'm Kellvyn Sampaio! 😄</h1>
     <div style="display: inline_block">
         <a href="https://github.com/TheSampaio">
-        <img height="172em" src="https://github-readme-stats.vercel.app/api?username=TheSampaio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/><br>
-        <img height="269em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/><br>
+        <img height="159em" src="https://github-readme-stats.vercel.app/api?username=TheSampaio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/><br>
+        <img height="248em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/><br>
     </div style="display: inline_block"><br>
         <img align="center" alt="Kellvyn-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img align="center" alt="Kellvyn-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
         <img align="center" alt="Kellvyn-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-        <img align="center" alt="Kellvyn-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+        <img align="center" alt="Kellvyn-HTML" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+        <img align="center" alt="Kellvyn-Cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
         <img align="center" alt="Kellvyn-Cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+        <img align="center" alt="Kellvyn-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
         <img align="center" alt="Kellvyn-Python" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     </div>
     <hr>
