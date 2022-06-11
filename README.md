@@ -6,11 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Hi There, I'm Kellvyn Sampaio! 😄</h1>
+    <h1>Hello There, I'm Kellvyn Sampaio!</h1>
     <div style="display: inline_block">
         <a href="https://github.com/TheSampaio">
         <img height="159em" src="https://github-readme-stats.vercel.app/api?username=TheSampaio&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/><br>
-        <img height="248em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/><br>
+        <img height="286em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/><br>
     </div style="display: inline_block"><br>
         <img align="center" alt="Kellvyn-Js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
         <img align="center" alt="Kellvyn-CSS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
