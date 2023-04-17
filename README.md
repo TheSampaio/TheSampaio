@@ -12,13 +12,6 @@
         <a href="https://github.com/TheSampaio">
         <img height="286em" width=460em src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/><br>
     </div>
-<!-- ==================== Language Icons ==================== -->
-    <div style="display: inline-block"><br>
-        <img align="center" alt="Kellvyn-C" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-        <img align="center" alt="Kellvyn-Cplusplus" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-        <img align="center" alt="Kellvyn-Csharp" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-        <img align="center" alt="Kellvyn-Python" height="42" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    </div>
 <!-- ==================== Social Medias ==================== -->
     <hr>
     <div style="display: inline-block">
