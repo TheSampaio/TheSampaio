@@ -5,13 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<!-- ==================== Main Header ==================== -->
-    <h1>Kellvyn Sampaio - Game Developer - Software Engineer</h1>
+    <!-- ===== Main Header ===== -->
+    <h1>Hello There, I'm Kellvyn Sampaio</h1>
+    <section>
+        I'm a game developer and software engineer.<br><br>
+    </section>
     <div style="display: block">
         <a href="https://github.com/TheSampaio">
         <img height="286em" width=460em src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSampaio&layout=compact&langs_count=9&theme=algolia"/><br>
     </div>
-<!-- ==================== Social Medias ==================== -->
+    <!-- ===== Social Medias ===== -->
     <hr>
     <div style="display: inline-block">
         <a href="https://sampaiogamesstudio.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" target="_blank"></a>
