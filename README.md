@@ -4,7 +4,7 @@
 🎮 Passionate about game programming, graphics APIs, and low-level systems  
 🛠️ Skilled in C#, C++, OpenGL, Vulkan, Unity, and Unreal Engine  
 
-## 🔧 Technologies & Tools  
+## ⚙️ Technologies & Tools  
 🖥️ **Languages:** C#, C++, Python  
 🔥 **Graphics APIs:** OpenGL, Vulkan  
 🎮 **Game Engines:** Unity, Unreal Engine  
