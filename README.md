@@ -1,4 +1,4 @@
-# Hi, I'm Kellvyn Sampaio  
+# 👋🏻 Hi, I'm Kellvyn Sampaio  
 
 👨‍💻 Software Engineer & Game Developer  
 🎮 Passionate about game programming, graphics APIs, and low-level systems  
