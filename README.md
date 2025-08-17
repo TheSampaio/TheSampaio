@@ -7,7 +7,6 @@
 
 ## ⚙️ Technologies & Tools
 
-### 💡 Current Focus  
 - **Languages:** C#, HTML, CSS, JavaScript, TypeScript 
 - **Frameworks:** .NET, ASP.NET Core (MVC & Web API), Entity Framework Core, React.js, Node.js  
 - **Databases:** Microsoft SQL Server, MySQL, PostgreSQL  
