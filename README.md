@@ -1,26 +1,76 @@
-# 👋🏻 Hi there! I'm Kellvyn Sampaio
+# 👋🏻 Hi, I'm Kellvyn Sampaio
 
-💻 **Full-Stack .NET Developer**  
-🔁 Currently transitioning from game development to full-stack web development  
-🎯 Focused on building robust, scalable, and modern web applications  
-🚀 Motivated by clean code, software architecture, and delivering real-world solutions
+Backend-focused .NET developer with a strong interest in software architecture, security, and building maintainable systems.
 
-## ⚙️ Technologies & Tools
+Before focusing on web development, I spent several years exploring game engines, graphics programming, and low-level systems. Today, I apply the same engineering mindset to APIs, backend services, and full-stack applications.
 
-- **Languages:** C#, HTML, CSS, JavaScript, TypeScript 
-- **Frameworks:** .NET, ASP.NET Core (MVC & Web API), Entity Framework Core, React.js, Node.js  
-- **Databases:** Microsoft SQL Server, MySQL, PostgreSQL  
-- **Other Skills:** RESTful APIs, MVC Architecture, Clean Architecture, Web Design Principles, Git, Postman  
+🌐 **Portfolio:** https://thesampaio.github.io/Portfolio/
 
-## 🛠️ Projects & Goals
 
-- Currently studying and developing full-stack projects with ASP.NET Core and React.js  
-- Continuously learning about system design, best practices, and enterprise-level web development  
-- Actively building a portfolio to showcase both backend and frontend skills
+## 🚀 What I Like Building
 
-## 🎮 Past Experience (Game Developer & Graphics Programmer)  
-While my current focus is full-stack web development, I bring with me years of experience working with:
-- **Languages:** C++, C#  
-- **Game Engines:** Unity, Unreal
-- **Graphics APIs:** OpenGL, Vulkan, Direct3D (D3D11, D3D12)
-- These experiences taught me about performance, architecture, and low-level systems — skills I now channel into web development
+I enjoy building software from the ground up, especially projects that help me explore architecture, tooling, security, and system design.
+
+My repositories range from:
+
+* Authentication and backend systems
+* Full-stack web applications
+* Developer productivity tools
+* Programming languages and compilers
+* Graphics programming and rendering experiments
+* Frameworks, libraries, and reusable tooling
+
+I am particularly interested in understanding how things work internally and turning that knowledge into practical, maintainable software.
+
+
+## 🧠 Engineering Mindset
+
+I enjoy solving problems through:
+
+* Clean Architecture
+* SOLID Principles
+* DRY & KISS
+* Secure Software Development
+* Performance-Oriented Thinking
+* Maintainable and Scalable Systems
+
+
+## 🛠 Tech Stack
+
+### Backend
+
+C# • .NET • ASP.NET Core • Web API • Entity Framework Core • Dapper • JWT
+
+### Frontend
+
+React • TypeScript • JavaScript • HTML • CSS
+
+### Databases
+
+SQL Server • PostgreSQL • MySQL
+
+### Tools
+
+Git • GitHub • Postman • Swagger
+
+
+## 🎮 Background
+
+Before focusing on web development, I worked extensively with:
+
+* C++
+* Unity
+* Unreal Engine
+* OpenGL
+* Vulkan
+* Direct3D 11/12
+
+This experience gave me a strong foundation in software architecture, performance optimization, debugging, and systems thinking.
+
+
+## 📫 Let's Connect
+
+* GitHub: https://github.com/TheSampaio
+* Portfolio: https://thesampaio.github.io/Portfolio/
+
+Always interested in software engineering, architecture, backend development, and building things from scratch.
