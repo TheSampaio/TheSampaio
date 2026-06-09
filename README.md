@@ -66,11 +66,3 @@ Before focusing on web development, I worked extensively with:
 * Direct3D 11/12
 
 This experience gave me a strong foundation in software architecture, performance optimization, debugging, and systems thinking.
-
-
-## 📫 Let's Connect
-
-* GitHub: https://github.com/TheSampaio
-* Portfolio: https://thesampaio.github.io/Portfolio/
-
-Always interested in software engineering, architecture, backend development, and building things from scratch.
